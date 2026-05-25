@@ -16,13 +16,13 @@
 </script>
 
 <div class="page">
-	<div class="title">Svelte Swiftcursor</div>
+	<div class="title">Svelte Swift Cursor</div>
 	<div class="description">
-		Svelte cursor component for creating customizable cursors.
+		A swift cursor component for Screating customizable cursors in svelte applications.
 
 		<br />
-		<a href="https://www.npmjs.com/package/svelte-swiftcursor">Documentation</a>
-		<a href="https://github.com/eagleyeee/svelte-swiftcursor">Github</a>
+		<a href="https://www.npmjs.com/package/svelte-swift-cursor">Documentation</a>
+		<a href="https://github.com/aqeeloffsec/svelte-swift-cursor">Github</a>
 	</div>
 
 	<div class="input-controls">
@@ -47,7 +47,7 @@
 	</div>
 	<code class="cursor-output"></code>
 	<div class="credits">
-		Created by <a href="https://github.com/eagleyeee">Svelte Swiftcursor (eagleyeee)</a>
+		Created by <a href="https://github.com/aqeeloffsec">Svelte Swift Cursor (aqeeloffsec)</a>
 	</div>
 </div>
 
