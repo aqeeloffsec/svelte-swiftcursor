@@ -164,7 +164,7 @@
 		<footer class="footer">
 			<p>
 				Crafted by <a href="https://github.com/aqeeloffsec" target="_blank" class="footer-link"
-					>Svelte Swift Cursor (aqeeloffsec)</a
+					>aqeeloffsec</a
 				>
 			</p>
 		</footer>
