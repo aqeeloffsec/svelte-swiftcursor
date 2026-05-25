@@ -4,10 +4,10 @@
     "description": "A swift cursor component for Screating customizable cursors in svelte applications",
     "author": "aqeeloffsec (Aqeel Chishti)",
     "license": "MIT",
-    "homepage": "https://svelte-swiftcursor.vercel.app/",
+    "homepage": "https://svelte-swift-cursor.vercel.app/",
     "repository": {
         "type": "git",
-        "url": "https://github.com/aqeeloffsec/svelte-swiftcursor.git"
+        "url": "https://github.com/aqeeloffsec/svelte-swift-cursor.git"
     },
     "keywords": [
         "svelte",
